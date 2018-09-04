@@ -22,6 +22,7 @@
 | 2:15-2:45 | [Phil Austin: Jupyter in EOAS](austin/Austin_Jupyter_Aug_2018_talk.ipynb) |
 | 2:45-3:15 | [Kim Dill-McFarland: EDUCE/ECOSCOPE](dill-mcfarland/2018_JupyterDay_EDUCE.pdf) |
 | 3:15-3:30 | Break, coffee, food |
-| 3:30-4:00 | [Patrick Walls: Jupyter in MATH 210](jupyter_math210.ipynb) |
+| 3:30-4:00 | [Patrick Walls: Jupyter in MATH 210](walls/jupyter_math210.ipynb) |
+
 
 <img src="./jupyterday.png" align="middle">
