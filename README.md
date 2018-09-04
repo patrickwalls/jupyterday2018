@@ -12,10 +12,10 @@
 * Undergraduate Mathematics Computer Lab, LSK 121
 * See [PIMS event page](http://www.pims.math.ca/scientific-event/180816-uj)
 
-|||
+| | |
 |:---:|:---:|
 | 12:00-12:30 | Lunch |
-| 12:30-1:00 | [Ian Allison: PIMS/Syzygy introduction](allison/Canadians land on Jupyter Presentation.pdf) and [Patrick Walls: Welcome to JupyterDay](walls/jupyterday.ipynb) |
+| 12:30-1:00 | [Ian Allison: PIMS/Syzygy introduction](allison/Canadians-land-on-Jupyter-Presentation.pdf) and [Patrick Walls: Welcome to JupyterDay](walls/jupyterday.ipynb) |
 | 1:00-1:30 | [Meghan Allen: Jupyter in CSPC 103](allen/Jupyter_Day_2018_CPSC_103.pdf) |
 | 1:30-2:00 | [Sam Hinshaw: Jupyter in DSCI 100](hinshaw/2018-08-16-canvas-jupyterhub-presentation.pdf) |
 | 2:00-2:15 | Break, coffee, food |
@@ -24,4 +24,4 @@
 | 3:15-3:30 | Break, coffee, food |
 | 3:30-4:00 | [Patrick Walls: Jupyter in MATH 210](jupyter_math210.ipynb) |
 
-![JuputerDay Poster](jupyterday.png)
+<img src="./jupyterday.png" align="middle">
